@@ -21,4 +21,7 @@ with open(FILE_NAME, 'r') as file:
             print(item.strip())
 ```
 2. After reading the file, the program is able to print all NFL teams in the state that was written in the file previously.
-3. If the file contains the same code that was written into the file beforehand, then that means the issue was caused by the request rather than the response. 
+3. If the file contains the same code that was written into the file beforehand, then that means the issue was caused by the request rather than the response.
+
+# UML Diagram
+[UML_Diagram_microservice.pdf](https://github.com/juliantpeterson/cs361_microservice/files/14413713/UML_Diagram_microservice.pdf)
